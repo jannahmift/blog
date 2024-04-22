@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sunscreens &#8211; JSKIN</title>
+	<atom:link href="https://jannahmift.github.io/blog/product-category/sunscreens/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jannahmift.github.io/blog</link>
+	<description>JSKIN adalah sebuah website toko online (olshop) skincare yang dirancang untuk menawarkan berbagai produk perawatan kulit kepada pelanggan melalui internet.</description>
+	<lastBuildDate>Fri, 19 Apr 2024 04:39:49 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>Soothing Sunscreen Gel</title>
+		<link>https://jannahmift.github.io/blog/product/soothing-sunscreen-gel/</link>
+					<comments>https://jannahmift.github.io/blog/product/soothing-sunscreen-gel/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 20 Aug 2021 11:50:18 +0000</pubDate>
+				<guid isPermaLink="false">https://jannahmift.github.io/blog/product/soothing-sunscreen-gel/</guid>
+
+					<description><![CDATA[Pelindung kulit dari sinar matahari yang dirancang untuk memberikan perlindungan dari sinar UVA dan UVB sambil merawat dan menenangkan kulit yang sensitif atau teriritasi.]]></description>
+										<content:encoded><![CDATA[<p>Pelindung kulit dari sinar matahari yang dirancang untuk memberikan perlindungan dari sinar UVA dan UVB sambil merawat dan menenangkan kulit yang sensitif atau teriritasi. Produk ini biasanya memiliki tekstur gel yang ringan, memberikan aplikasi yang segar dan tidak berminyak, yang cocok untuk semua jenis kulit, terutama bagi mereka yang lebih memilih formula yang tidak memberatkan.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jannahmift.github.io/blog/product/soothing-sunscreen-gel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Complex Sunscreen Balm</title>
+		<link>https://jannahmift.github.io/blog/product/complex-sunscreen-balm/</link>
+					<comments>https://jannahmift.github.io/blog/product/complex-sunscreen-balm/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 20 Aug 2021 11:42:55 +0000</pubDate>
+				<guid isPermaLink="false">https://jannahmift.github.io/blog/product/complex-sunscreen-balm/</guid>
+
+					<description><![CDATA[Produk pelindung kulit yang dirancang untuk memberikan perlindungan yang efektif terhadap sinar matahari dengan formula balm yang unik.]]></description>
+										<content:encoded><![CDATA[<p>Produk pelindung kulit yang dirancang untuk memberikan perlindungan yang efektif terhadap sinar matahari dengan formula balm yang unik. Produk ini biasanya mengandung kombinasi berbagai bahan yang bekerja bersama untuk memblokir sinar UVA dan UVB, sambil merawat dan melembapkan kulit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jannahmift.github.io/blog/product/complex-sunscreen-balm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
